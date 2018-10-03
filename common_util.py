@@ -263,13 +263,15 @@ class PageUtil(object):
 
         self.log.debug( "validate map dropdown and its landing page")
         All_map_css = self.browser.setting.get('Locators', 'All_maps')
-        All_map_values = self.browser.find_element_by_css_selector(All_map_css)
+        All_map_values = self.browser.self.driver.find_element_by_xpath(All_map_css)
         All_map_values.click()
-        select = Select(All_map_values)
-        self.log.debug( [oo.text for oo in select.options])
-        expected_result = ["Weather maps","current satelite maps", "Beautiful places"]
-        if oo.text in expected_result:
-            self.log.debug( "All values are matched")
+        All_map_values = self.browser.setting.get('Locators', 'All_maps_dropdown')
+        Map_values = self.driver.find_elements_by_css_selector(All_map_values)
+        for value in Map_values:
+            actual_text = value.text
+            expected_result = ["Weather maps","current satelite maps", "Beautiful places"]
+            if actual_text in expected_result:
+                self.log.debug("Value is matching")
 
         self.log.debug( "Validate sign in and sig up buttons ")
         sign_in_css = self.browser.setting.get('Locators', 'sign_in_css')
@@ -355,8 +357,6 @@ class PageUtil(object):
         assert tab.text==tab_name
         tab.is_displayed()
         tab.click()
-
-
 
 
 
