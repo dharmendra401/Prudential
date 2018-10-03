@@ -1,8 +1,16 @@
 #Author: dharmendra Pandey [dharmendra401@yahoo.in]
 
 import  unittest
-from common_util import Common_util
+
+from selenium.webdriver.common.by import By
+
+from common_util import CommonUtil, PageUtil
 from Log import *
+import ConfigParser
+
+setting =  ConfigParser.ConfigParser()
+setting.read('config.ini')
+setting.sections()
 
 class SearchTest(unittest.TestCase):
 
@@ -12,14 +20,15 @@ class SearchTest(unittest.TestCase):
 
     @classmethod
     def setUp(self):
-        """
-        setup for home page
-        :return: None
-        """
+        # """
+        # setup for home page
+        # :return: None
+        # """
         self.log = Logger(self.__module__, DEBUG,"test.log")
         self.log.debug("-------Starting test Setup------")
-        self.driver = Common_util.common_setup(self)
-        Common_util.is_title_matches(self)
+        self.driver = CommonUtil.common_setup()
+        self.page = PageUtil(self.driver)
+        self.page.is_title_matches()
         self.log.debug("------Completed Test setup-------")
 
     def test_invalid_city_weather(self):
@@ -33,17 +42,17 @@ class SearchTest(unittest.TestCase):
             5. Click on X icon on the No found message frame
         """
         self.log.debug("Started test_invalid_city_weather Test ")
-        Common_util.validate_correct_landing_page(self)
+        self.page.validate_correct_landing_page()
 
         self.log.info("Enter Invalid value in text field")
-        invalid_input = self.driver.setting.get('Input_Value', 'Invalid_value')
-        Common_util.enter_city_value(self, invalid_input)
+        invalid_input = setting.get('Input_Value', 'Invalid_value')
+        self.page.enter_city_value(invalid_input)
 
         self.log.info("Click on Submit button")
-        Common_util.click_on_submit_button(self)
+        self.page.click_on_submit_button()
 
         self.log.info("Check No found message appears and click on Close icon")
-        Common_util.check_no_found_message_post_entered_invalid_city_name(self)
+        self.page.check_no_found_message_post_entered_invalid_city_name()
         self.log.debug("Completed test_invalid_city_weather test")
 
     def test_valid_city_verify_weather_details(self):
@@ -58,19 +67,18 @@ class SearchTest(unittest.TestCase):
                to city name which we have entered
 
         """
-        self.log.debug("Started test_valid_city_weather Test ")
-        Common_util.validate_correct_landing_page(self)
+        self.log.debug("Started test_invalid_city_weather Test ")
+        self.page.validate_correct_landing_page()
 
-        self.log.info("Enter Invalid value in text field")
-        self.valid_input = self.driver.setting.get('Input_Value', 'Valid_value')
-        Common_util.enter_city_value(self, self.valid_input)
+        self.log.info("Enter valid value in text field")
+        valid_input = setting.get('Input_Value', 'Valid_value')
+        self.page.enter_city_value(valid_input)
 
         self.log.info("Click on Submit button")
-        Common_util.click_on_submit_button(self)
+        self.page.click_on_submit_button()
 
         self.log.info("Check correct city temperature is displaying")
-        Common_util.validate_correct_city_temperature_displaying(self)
-
+        self.page.validate_correct_city_temperature_displaying(valid_input)
 
     def test_validate_landing_page(self):
         """
@@ -93,10 +101,10 @@ class SearchTest(unittest.TestCase):
             7. Validating "We Deliver 2 Billion Forecasts Per Day" message on the home page
         """
         self.log.debug("Started test_valid_city_weather Test ")
-        Common_util.validate_correct_landing_page(self)
+        self.page.validate_correct_landing_page()
 
         self.log.debug("Checking all elements of home page")
-        Common_util.validate_all_labels(self)
+        self.page.validate_all_labels()
 
 
     def test_sign_in_functionality_invalid_email_password(self):
@@ -110,15 +118,13 @@ class SearchTest(unittest.TestCase):
         :return:
         """
         self.log.debug("Validate email and password fields are present")
-        Common_util.validate_sign_in_window_elements(self)
-        email = "abc@gmail.com" #valid email id
-        password = "123456" #valid password
+        self.page.validate_sign_in_window_elements()
+        email = "abc@gmail.com" #Invalid email id
+        password = "123456" #Invalid password
         self.log.debug("enter invalid email and password")
-        Common_util.validate_sign_functionality(self,email, password)
+        self.page.validate_sign_functionality(email, password)
         self.log.debug("Verify alert 'Invalid Email or password.' messsage ")
-        Common_util.validate_invalid_alert_if_entered_wrong_email_password(self)
-
-
+        self.page.validate_alert_message_if_entered_wrong_email_password()
 
 
     @classmethod
