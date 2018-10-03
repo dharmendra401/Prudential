@@ -1,0 +1,402 @@
+2018-10-01 21:11:31,069 - CRITICAL - <module>: hello
+2018-10-01 21:12:47,671 - CRITICAL - <module>: hello
+2018-10-01 21:13:31,726 - CRITICAL - <module>: hello
+2018-10-01 21:14:01,558 - CRITICAL - <module>: hello
+2018-10-01 21:29:49,865 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 21:32:13,115 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 21:32:36,839 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 21:34:03,026 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 21:34:03,394 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 21:34:58,917 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 21:35:00,072 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 22:58:12,210 - DEBUG - test_validate_all_elements: Starting First Test
+2018-10-01 22:59:02,720 - DEBUG - test_validate_all_elements: Starting First Test
+2018-10-01 22:59:02,723 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:00:21,904 - DEBUG - test_validate_all_elements: Starting First Test
+2018-10-01 23:00:21,910 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:01:20,839 - DEBUG - test_validate_all_elements: Starting First Test
+2018-10-01 23:01:20,842 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:02:09,780 - DEBUG - test_validate_all_elements: Starting First Test
+2018-10-01 23:02:09,783 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:03:14,483 - DEBUG - test_validate_all_elements: Starting First Test
+2018-10-01 23:03:14,487 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:05:41,318 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:06:04,835 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:06:04,838 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:06:07,355 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:14:27,733 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:14:50,042 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:14:50,042 - DEBUG - test_invalid_city_weather: Started test_invalid_city_weather Test 
+2018-10-01 23:14:50,045 - INFO - test_invalid_city_weather: Validate logo whether landing on correct page
+2018-10-01 23:14:50,101 - INFO - test_invalid_city_weather: Enter Invalid value in text field
+2018-10-01 23:14:50,255 - INFO - test_invalid_city_weather: Click on Submit button
+2018-10-01 23:14:51,473 - INFO - test_invalid_city_weather: Check No found message appears and click on Close icon
+2018-10-01 23:14:51,742 - DEBUG - test_invalid_city_weather: Completed test_invalid_city_weather test
+2018-10-01 23:14:51,746 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:14:54,023 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:17:21,766 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:17:43,424 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:17:43,426 - DEBUG - test_invalid_city_weather: Started test_invalid_city_weather Test 
+2018-10-01 23:17:43,427 - INFO - test_invalid_city_weather: Validate logo whether landing on correct page
+2018-10-01 23:17:43,493 - INFO - test_invalid_city_weather: Enter Invalid value in text field
+2018-10-01 23:17:43,611 - INFO - test_invalid_city_weather: Click on Submit button
+2018-10-01 23:17:53,743 - INFO - test_invalid_city_weather: Check No found message appears and click on Close icon
+2018-10-01 23:17:53,948 - DEBUG - test_invalid_city_weather: Completed test_invalid_city_weather test
+2018-10-01 23:17:53,951 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:17:57,286 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:22:30,512 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:22:47,937 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:22:47,938 - DEBUG - test_invalid_city_weather: Started test_invalid_city_weather Test 
+2018-10-01 23:22:47,940 - INFO - test_invalid_city_weather: Validate logo whether landing on correct page
+2018-10-01 23:22:48,005 - INFO - test_invalid_city_weather: Enter Invalid value in text field
+2018-10-01 23:22:48,141 - INFO - test_invalid_city_weather: Click on Submit button
+2018-10-01 23:22:52,321 - INFO - test_invalid_city_weather: Check No found message appears and click on Close icon
+2018-10-01 23:22:52,477 - DEBUG - test_invalid_city_weather: Completed test_invalid_city_weather test
+2018-10-01 23:22:52,480 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:22:55,808 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:29:22,948 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:29:40,068 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:29:40,069 - DEBUG - test_invalid_city_weather: Started test_invalid_city_weather Test 
+2018-10-01 23:29:40,072 - INFO - test_invalid_city_weather: Validate logo whether landing on correct page
+2018-10-01 23:29:40,147 - INFO - test_invalid_city_weather: Enter Invalid value in text field
+2018-10-01 23:29:40,296 - INFO - test_invalid_city_weather: Click on Submit button
+2018-10-01 23:29:47,334 - INFO - test_invalid_city_weather: Check No found message appears and click on Close icon
+2018-10-01 23:29:47,528 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:29:49,801 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:34:23,753 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:34:54,444 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:34:54,446 - DEBUG - test_invalid_city_weather: Started test_invalid_city_weather Test 
+2018-10-01 23:34:54,450 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:34:54,507 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:34:54,509 - INFO - test_invalid_city_weather: Enter Invalid value in text field
+2018-10-01 23:34:54,638 - INFO - test_invalid_city_weather: Click on Submit button
+2018-10-01 23:34:58,898 - INFO - test_invalid_city_weather: Check No found message appears and click on Close icon
+2018-10-01 23:34:59,069 - DEBUG - test_invalid_city_weather: Completed test_invalid_city_weather test
+2018-10-01 23:34:59,071 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:35:02,335 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:35:02,344 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:35:02,344 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:37:25,559 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:37:42,594 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:37:42,595 - DEBUG - test_invalid_city_weather: Started test_invalid_city_weather Test 
+2018-10-01 23:37:42,598 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:37:42,665 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:37:42,667 - INFO - test_invalid_city_weather: Enter Invalid value in text field
+2018-10-01 23:37:42,832 - INFO - test_invalid_city_weather: Click on Submit button
+2018-10-01 23:37:51,019 - INFO - test_invalid_city_weather: Check No found message appears and click on Close icon
+2018-10-01 23:37:51,198 - DEBUG - test_invalid_city_weather: Completed test_invalid_city_weather test
+2018-10-01 23:37:51,201 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:37:53,479 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:37:53,486 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:37:53,486 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:38:14,164 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:38:14,164 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:38:14,167 - DEBUG - test_valid_city_verify_weather_details: Started test_invalid_city_weather Test 
+2018-10-01 23:38:14,167 - DEBUG - test_valid_city_verify_weather_details: Started test_invalid_city_weather Test 
+2018-10-01 23:38:14,167 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:38:14,167 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:38:14,219 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:38:14,219 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:38:14,220 - INFO - test_valid_city_verify_weather_details: Enter Invalid value in text field
+2018-10-01 23:38:14,220 - INFO - test_valid_city_verify_weather_details: Enter Invalid value in text field
+2018-10-01 23:38:14,365 - INFO - test_valid_city_verify_weather_details: Click on Submit button
+2018-10-01 23:38:14,365 - INFO - test_valid_city_verify_weather_details: Click on Submit button
+2018-10-01 23:38:22,086 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:38:22,086 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:38:26,088 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:38:26,088 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:39:02,950 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:39:32,211 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:39:32,214 - DEBUG - test_invalid_city_weather: Started test_invalid_city_weather Test 
+2018-10-01 23:39:32,219 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:39:32,269 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:39:32,270 - INFO - test_invalid_city_weather: Enter Invalid value in text field
+2018-10-01 23:39:32,380 - INFO - test_invalid_city_weather: Click on Submit button
+2018-10-01 23:39:44,293 - INFO - test_invalid_city_weather: Check No found message appears and click on Close icon
+2018-10-01 23:39:44,461 - DEBUG - test_invalid_city_weather: Completed test_invalid_city_weather test
+2018-10-01 23:39:44,466 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:39:46,736 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:39:46,743 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:39:46,743 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:40:02,244 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:40:02,244 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:40:02,246 - DEBUG - test_valid_city_verify_weather_details: Started test_invalid_city_weather Test 
+2018-10-01 23:40:02,246 - DEBUG - test_valid_city_verify_weather_details: Started test_invalid_city_weather Test 
+2018-10-01 23:40:02,249 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:40:02,249 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:40:02,299 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:40:02,299 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:40:02,301 - INFO - test_valid_city_verify_weather_details: Enter Invalid value in text field
+2018-10-01 23:40:02,301 - INFO - test_valid_city_verify_weather_details: Enter Invalid value in text field
+2018-10-01 23:40:02,436 - INFO - test_valid_city_verify_weather_details: Click on Submit button
+2018-10-01 23:40:02,436 - INFO - test_valid_city_verify_weather_details: Click on Submit button
+2018-10-01 23:40:09,691 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:40:09,691 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:40:11,953 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:40:11,953 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:40:39,822 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:41:00,871 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:41:00,875 - DEBUG - test_invalid_city_weather: Started test_invalid_city_weather Test 
+2018-10-01 23:41:00,878 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:41:00,943 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:41:00,944 - INFO - test_invalid_city_weather: Enter Invalid value in text field
+2018-10-01 23:41:01,108 - INFO - test_invalid_city_weather: Click on Submit button
+2018-10-01 23:41:07,421 - INFO - test_invalid_city_weather: Check No found message appears and click on Close icon
+2018-10-01 23:41:07,596 - DEBUG - test_invalid_city_weather: Completed test_invalid_city_weather test
+2018-10-01 23:41:07,599 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:41:09,869 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:41:09,880 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:41:09,880 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:41:30,742 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:41:30,742 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:41:30,743 - DEBUG - test_valid_city_verify_weather_details: Started test_invalid_city_weather Test 
+2018-10-01 23:41:30,743 - DEBUG - test_valid_city_verify_weather_details: Started test_invalid_city_weather Test 
+2018-10-01 23:41:30,746 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:41:30,746 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:41:30,799 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:41:30,799 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:41:30,799 - INFO - test_valid_city_verify_weather_details: Enter Invalid value in text field
+2018-10-01 23:41:30,799 - INFO - test_valid_city_verify_weather_details: Enter Invalid value in text field
+2018-10-01 23:41:30,924 - INFO - test_valid_city_verify_weather_details: Click on Submit button
+2018-10-01 23:41:30,924 - INFO - test_valid_city_verify_weather_details: Click on Submit button
+2018-10-01 23:41:36,714 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:41:36,714 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:41:38,980 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:41:38,980 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:42:14,926 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:42:31,790 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:42:31,792 - DEBUG - test_valid_city_verify_weather_details: Started test_invalid_city_weather Test 
+2018-10-01 23:42:31,796 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:42:31,875 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:42:31,877 - INFO - test_valid_city_verify_weather_details: Enter Invalid value in text field
+2018-10-01 23:42:32,184 - INFO - test_valid_city_verify_weather_details: Click on Submit button
+2018-10-01 23:42:38,180 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:42:40,489 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:46:53,516 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:47:05,607 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:47:05,608 - DEBUG - test_valid_city_verify_weather_details: Started test_invalid_city_weather Test 
+2018-10-01 23:47:05,612 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:47:05,703 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:47:05,706 - INFO - test_valid_city_verify_weather_details: Enter Invalid value in text field
+2018-10-01 23:47:05,887 - INFO - test_valid_city_verify_weather_details: Click on Submit button
+2018-10-01 23:47:10,411 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:47:12,697 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:52:44,197 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:53:00,651 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:53:00,654 - DEBUG - test_valid_city_verify_weather_details: Started test_invalid_city_weather Test 
+2018-10-01 23:53:00,654 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:53:00,723 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:53:00,724 - INFO - test_valid_city_verify_weather_details: Enter Invalid value in text field
+2018-10-01 23:53:00,950 - INFO - test_valid_city_verify_weather_details: Click on Submit button
+2018-10-01 23:53:08,538 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:53:10,803 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:53:52,161 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:54:14,673 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:54:14,674 - DEBUG - test_valid_city_verify_weather_details: Started test_invalid_city_weather Test 
+2018-10-01 23:54:14,677 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:54:14,730 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:54:14,732 - INFO - test_valid_city_verify_weather_details: Enter Invalid value in text field
+2018-10-01 23:54:14,859 - INFO - test_valid_city_verify_weather_details: Click on Submit button
+2018-10-01 23:54:19,971 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:54:22,226 - DEBUG - tearDown: Completed TearDown
+2018-10-01 23:54:48,414 - DEBUG - setUp: -------Starting test Setup------
+2018-10-01 23:55:06,667 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-01 23:55:06,667 - DEBUG - test_valid_city_verify_weather_details: Started test_invalid_city_weather Test 
+2018-10-01 23:55:06,670 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-01 23:55:06,720 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-01 23:55:06,723 - INFO - test_valid_city_verify_weather_details: Enter Invalid value in text field
+2018-10-01 23:55:06,851 - INFO - test_valid_city_verify_weather_details: Click on Submit button
+2018-10-01 23:55:12,729 - DEBUG - tearDown: Started TearDown
+2018-10-01 23:55:15,023 - DEBUG - tearDown: Completed TearDown
+2018-10-02 00:03:09,203 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 00:03:21,513 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 00:03:21,516 - DEBUG - test_valid_city_verify_weather_details: Started test_invalid_city_weather Test 
+2018-10-02 00:03:21,519 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-02 00:03:21,592 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-02 00:03:21,594 - INFO - test_valid_city_verify_weather_details: Enter Invalid value in text field
+2018-10-02 00:03:21,769 - INFO - test_valid_city_verify_weather_details: Click on Submit button
+2018-10-02 00:03:26,194 - INFO - test_valid_city_verify_weather_details: Check correct city temperature is displaying
+2018-10-02 00:03:26,283 - DEBUG - tearDown: Started TearDown
+2018-10-02 00:03:30,040 - DEBUG - tearDown: Completed TearDown
+2018-10-02 00:04:05,352 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 00:04:20,993 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 00:04:20,996 - DEBUG - test_valid_city_verify_weather_details: Started test_invalid_city_weather Test 
+2018-10-02 00:04:20,999 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-02 00:04:21,051 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-02 00:04:21,052 - INFO - test_valid_city_verify_weather_details: Enter Invalid value in text field
+2018-10-02 00:04:21,193 - INFO - test_valid_city_verify_weather_details: Click on Submit button
+2018-10-02 00:04:25,917 - INFO - test_valid_city_verify_weather_details: Check correct city temperature is displaying
+2018-10-02 00:04:25,986 - DEBUG - tearDown: Started TearDown
+2018-10-02 00:04:28,520 - DEBUG - tearDown: Completed TearDown
+2018-10-02 00:16:30,953 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 00:16:44,647 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 00:16:44,753 - DEBUG - tearDown: Started TearDown
+2018-10-02 00:16:46,986 - DEBUG - tearDown: Completed TearDown
+2018-10-02 00:21:54,362 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 00:22:06,030 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 00:22:06,168 - DEBUG - tearDown: Started TearDown
+2018-10-02 00:22:08,403 - DEBUG - tearDown: Completed TearDown
+2018-10-02 00:25:55,283 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 00:26:08,982 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 00:26:09,177 - DEBUG - tearDown: Started TearDown
+2018-10-02 00:26:11,418 - DEBUG - tearDown: Completed TearDown
+2018-10-02 21:36:48,851 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 21:36:54,963 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 21:36:54,970 - DEBUG - test_invalid_city_weather: Started test_invalid_city_weather Test 
+2018-10-02 21:36:54,974 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-02 21:37:25,002 - DEBUG - tearDown: Started TearDown
+2018-10-02 21:37:28,086 - DEBUG - tearDown: Completed TearDown
+2018-10-02 21:46:41,746 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 21:47:01,187 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 21:47:01,188 - DEBUG - test_invalid_city_weather: Started test_invalid_city_weather Test 
+2018-10-02 21:47:01,190 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-02 21:47:01,246 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-02 21:47:01,247 - INFO - test_invalid_city_weather: Enter Invalid value in text field
+2018-10-02 21:47:01,390 - INFO - test_invalid_city_weather: Click on Submit button
+2018-10-02 21:47:01,394 - DEBUG - tearDown: Started TearDown
+2018-10-02 21:47:03,706 - DEBUG - tearDown: Completed TearDown
+2018-10-02 21:47:36,230 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 21:47:50,309 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 21:47:50,311 - DEBUG - test_invalid_city_weather: Started test_invalid_city_weather Test 
+2018-10-02 21:47:50,312 - INFO - validate_correct_landing_page: Validate logo whether landing on correct page
+2018-10-02 21:47:50,371 - INFO - validate_correct_landing_page: Completed logo validation landing on correct page
+2018-10-02 21:47:50,372 - INFO - test_invalid_city_weather: Enter Invalid value in text field
+2018-10-02 21:47:50,493 - INFO - test_invalid_city_weather: Click on Submit button
+2018-10-02 21:47:50,496 - DEBUG - tearDown: Started TearDown
+2018-10-02 21:47:52,788 - DEBUG - tearDown: Completed TearDown
+2018-10-02 22:55:38,976 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 22:55:57,631 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 22:55:57,844 - DEBUG - tearDown: Started TearDown
+2018-10-02 22:56:00,191 - DEBUG - tearDown: Completed TearDown
+2018-10-02 23:03:23,796 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 23:03:40,039 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 23:03:40,490 - DEBUG - tearDown: Started TearDown
+2018-10-02 23:03:42,798 - DEBUG - tearDown: Completed TearDown
+2018-10-02 23:06:36,730 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 23:07:02,963 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 23:07:03,322 - DEBUG - tearDown: Started TearDown
+2018-10-02 23:07:05,575 - DEBUG - tearDown: Completed TearDown
+2018-10-02 23:09:39,923 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 23:09:51,101 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 23:10:21,625 - DEBUG - tearDown: Started TearDown
+2018-10-02 23:10:24,914 - DEBUG - tearDown: Completed TearDown
+2018-10-02 23:10:53,549 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 23:11:05,986 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 23:11:36,447 - DEBUG - tearDown: Started TearDown
+2018-10-02 23:11:39,749 - DEBUG - tearDown: Completed TearDown
+2018-10-02 23:12:10,007 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 23:12:22,096 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 23:12:22,598 - DEBUG - tearDown: Started TearDown
+2018-10-02 23:12:25,901 - DEBUG - tearDown: Completed TearDown
+2018-10-02 23:13:12,223 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 23:13:52,124 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 23:13:52,490 - DEBUG - tearDown: Started TearDown
+2018-10-02 23:13:54,773 - DEBUG - tearDown: Completed TearDown
+2018-10-02 23:18:38,048 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 23:18:54,621 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 23:18:55,056 - DEBUG - tearDown: Started TearDown
+2018-10-02 23:18:58,404 - DEBUG - tearDown: Completed TearDown
+2018-10-02 23:22:35,595 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 23:22:59,492 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 23:23:30,250 - DEBUG - tearDown: Started TearDown
+2018-10-02 23:23:32,520 - DEBUG - tearDown: Completed TearDown
+2018-10-02 23:23:48,770 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 23:24:13,269 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 23:24:43,657 - DEBUG - tearDown: Started TearDown
+2018-10-02 23:24:47,125 - DEBUG - tearDown: Completed TearDown
+2018-10-02 23:26:02,990 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 23:26:57,578 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 23:26:57,964 - DEBUG - tearDown: Started TearDown
+2018-10-02 23:27:00,358 - DEBUG - tearDown: Completed TearDown
+2018-10-02 23:30:20,979 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 23:30:53,750 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 23:31:13,441 - DEBUG - tearDown: Started TearDown
+2018-10-02 23:31:15,704 - DEBUG - tearDown: Completed TearDown
+2018-10-02 23:40:45,427 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 23:42:01,045 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 23:42:23,999 - DEBUG - tearDown: Started TearDown
+2018-10-02 23:42:26,276 - DEBUG - tearDown: Completed TearDown
+2018-10-02 23:50:17,848 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 23:51:23,835 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 23:51:33,398 - DEBUG - tearDown: Started TearDown
+2018-10-02 23:51:36,130 - DEBUG - tearDown: Completed TearDown
+2018-10-02 23:52:09,471 - DEBUG - setUp: -------Starting test Setup------
+2018-10-02 23:52:40,296 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-02 23:53:13,664 - DEBUG - tearDown: Started TearDown
+2018-10-02 23:53:16,151 - DEBUG - tearDown: Completed TearDown
+2018-10-03 00:02:31,967 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 00:03:09,516 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 00:04:31,394 - DEBUG - tearDown: Started TearDown
+2018-10-03 00:04:33,709 - DEBUG - tearDown: Completed TearDown
+2018-10-03 00:33:12,785 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 00:33:19,104 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 00:33:49,134 - DEBUG - tearDown: Started TearDown
+2018-10-03 00:33:51,365 - DEBUG - tearDown: Completed TearDown
+2018-10-03 00:34:03,289 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 00:34:18,505 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 00:34:48,927 - DEBUG - tearDown: Started TearDown
+2018-10-03 00:34:51,286 - DEBUG - tearDown: Completed TearDown
+2018-10-03 00:35:51,727 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 00:36:02,381 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 00:36:09,209 - DEBUG - tearDown: Started TearDown
+2018-10-03 00:36:11,493 - DEBUG - tearDown: Completed TearDown
+2018-10-03 00:42:25,242 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 00:42:36,969 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 00:42:42,486 - DEBUG - tearDown: Started TearDown
+2018-10-03 00:42:44,848 - DEBUG - tearDown: Completed TearDown
+2018-10-03 00:43:05,740 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 00:43:18,474 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 00:43:23,147 - DEBUG - tearDown: Started TearDown
+2018-10-03 00:43:25,405 - DEBUG - tearDown: Completed TearDown
+2018-10-03 00:47:41,943 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 00:47:56,526 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 00:48:01,444 - DEBUG - tearDown: Started TearDown
+2018-10-03 00:48:03,742 - DEBUG - tearDown: Completed TearDown
+2018-10-03 00:49:13,536 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 00:49:25,775 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 00:49:30,176 - DEBUG - tearDown: Started TearDown
+2018-10-03 00:49:32,471 - DEBUG - tearDown: Completed TearDown
+2018-10-03 00:51:13,071 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 00:51:13,082 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 00:51:34,362 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 00:51:34,572 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 00:51:41,062 - DEBUG - tearDown: Started TearDown
+2018-10-03 00:51:41,187 - DEBUG - tearDown: Started TearDown
+2018-10-03 00:51:43,417 - DEBUG - tearDown: Completed TearDown
+2018-10-03 00:51:43,542 - DEBUG - tearDown: Completed TearDown
+2018-10-03 00:52:29,903 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 00:52:41,000 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 00:52:46,894 - DEBUG - tearDown: Started TearDown
+2018-10-03 00:52:49,417 - DEBUG - tearDown: Completed TearDown
+2018-10-03 00:53:04,815 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 00:53:16,644 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 00:53:21,951 - DEBUG - tearDown: Started TearDown
+2018-10-03 00:53:24,257 - DEBUG - tearDown: Completed TearDown
+2018-10-03 00:58:42,232 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 00:58:54,640 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 00:58:55,010 - DEBUG - tearDown: Started TearDown
+2018-10-03 00:58:57,569 - DEBUG - tearDown: Completed TearDown
+2018-10-03 00:59:16,253 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 00:59:29,990 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 00:59:35,144 - DEBUG - tearDown: Started TearDown
+2018-10-03 00:59:38,483 - DEBUG - tearDown: Completed TearDown
+2018-10-03 01:04:20,640 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 01:04:34,549 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 01:04:34,918 - DEBUG - tearDown: Started TearDown
+2018-10-03 01:04:37,263 - DEBUG - tearDown: Completed TearDown
+2018-10-03 01:12:41,240 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 01:12:55,686 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 01:13:01,119 - DEBUG - tearDown: Started TearDown
+2018-10-03 01:13:03,385 - DEBUG - tearDown: Completed TearDown
+2018-10-03 01:37:54,677 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 01:38:04,509 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 01:38:10,040 - DEBUG - tearDown: Started TearDown
+2018-10-03 01:38:13,339 - DEBUG - tearDown: Completed TearDown
+2018-10-03 01:40:23,217 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 01:40:34,161 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 01:40:45,848 - DEBUG - tearDown: Started TearDown
+2018-10-03 01:40:49,242 - DEBUG - tearDown: Completed TearDown
+2018-10-03 01:43:37,423 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 01:43:47,039 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 01:43:58,763 - DEBUG - tearDown: Started TearDown
+2018-10-03 01:44:01,144 - DEBUG - tearDown: Completed TearDown

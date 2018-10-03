@@ -1,0 +1,17 @@
+Steps to execute testcase:
+
+1. Install python
+2. Download pycharm
+3. Import all files(common_uti.py, Testcases.py, Log.Py)
+4. python -m pip install --upgrade pip
+5. pip install -U selenium
+
+I have used python unit test framework for writting these testcases.
+
+Framwork Details:
+I have followed Page object model.
+My framwork is divided in 4 parts
+1. Testcases.py  --> It contains all the testcases
+2. Common_util.py --> It contains all the workflow methods which I am using in testcases
+3. Log.py--> This is a log module so that we can print the logs
+4. Config.ini  --> This is property file containing all locators
