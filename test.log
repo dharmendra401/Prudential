@@ -830,3 +830,539 @@
 2018-10-03 20:52:13,267 - DEBUG - setUp: ------Completed Test setup-------
 2018-10-03 20:52:43,332 - DEBUG - tearDown: Started TearDown
 2018-10-03 20:52:46,095 - DEBUG - tearDown: Completed TearDown
+2018-10-03 21:55:12,068 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 21:55:27,480 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 21:55:27,559 - DEBUG - tearDown: Started TearDown
+2018-10-03 21:55:29,795 - DEBUG - tearDown: Completed TearDown
+2018-10-03 21:56:36,178 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 21:56:51,816 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 21:56:51,872 - DEBUG - tearDown: Started TearDown
+2018-10-03 21:56:54,127 - DEBUG - tearDown: Completed TearDown
+2018-10-03 21:58:22,526 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 21:58:35,823 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 21:58:35,858 - DEBUG - tearDown: Started TearDown
+2018-10-03 21:58:38,107 - DEBUG - tearDown: Completed TearDown
+2018-10-03 21:59:13,604 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 21:59:27,608 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 21:59:57,948 - DEBUG - tearDown: Started TearDown
+2018-10-03 22:00:00,082 - DEBUG - tearDown: Completed TearDown
+2018-10-03 22:05:01,529 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 22:05:18,821 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 22:05:49,072 - DEBUG - tearDown: Started TearDown
+2018-10-03 22:05:51,299 - DEBUG - tearDown: Completed TearDown
+2018-10-03 22:06:34,040 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 22:06:48,941 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 22:07:19,132 - DEBUG - tearDown: Started TearDown
+2018-10-03 22:07:22,683 - DEBUG - tearDown: Completed TearDown
+2018-10-03 22:10:27,427 - DEBUG - setUp: -------Starting test Setup------
+2018-10-03 22:10:54,782 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-03 22:11:25,437 - DEBUG - tearDown: Started TearDown
+2018-10-03 22:11:28,694 - DEBUG - tearDown: Completed TearDown
+2018-10-04 15:14:24,579 - DEBUG - setUp: -------Starting test Setup------
+2018-10-04 15:14:41,292 - DEBUG - setUp: -------Starting test Setup------
+2018-10-04 15:14:41,292 - DEBUG - setUp: -------Starting test Setup------
+2018-10-04 15:14:48,507 - DEBUG - setUp: -------Starting test Setup------
+2018-10-04 15:14:48,507 - DEBUG - setUp: -------Starting test Setup------
+2018-10-04 15:14:48,507 - DEBUG - setUp: -------Starting test Setup------
+2018-10-04 15:14:55,615 - DEBUG - setUp: -------Starting test Setup------
+2018-10-04 15:14:55,615 - DEBUG - setUp: -------Starting test Setup------
+2018-10-04 15:14:55,615 - DEBUG - setUp: -------Starting test Setup------
+2018-10-04 15:14:55,615 - DEBUG - setUp: -------Starting test Setup------
+2018-10-07 23:30:26,792 - DEBUG - setUp: -------Starting test Setup------
+2018-10-07 23:31:14,259 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-07 23:31:15,062 - DEBUG - tearDown: Started TearDown
+2018-10-07 23:31:17,677 - DEBUG - tearDown: Completed TearDown
+2018-10-07 23:35:38,056 - DEBUG - setUp: -------Starting test Setup------
+2018-10-07 23:35:52,828 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-07 23:35:52,872 - DEBUG - tearDown: Started TearDown
+2018-10-07 23:36:01,996 - DEBUG - tearDown: Completed TearDown
+2018-10-07 23:37:30,653 - DEBUG - setUp: -------Starting test Setup------
+2018-10-07 23:37:47,489 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-07 23:37:47,523 - DEBUG - tearDown: Started TearDown
+2018-10-07 23:37:49,765 - DEBUG - tearDown: Completed TearDown
+2018-10-07 23:38:08,043 - DEBUG - setUp: -------Starting test Setup------
+2018-10-07 23:38:20,104 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-07 23:38:20,151 - DEBUG - tearDown: Started TearDown
+2018-10-07 23:38:22,463 - DEBUG - tearDown: Completed TearDown
+2018-10-07 23:42:16,301 - DEBUG - setUp: -------Starting test Setup------
+2018-10-07 23:42:28,611 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-07 23:42:28,641 - DEBUG - tearDown: Started TearDown
+2018-10-07 23:42:30,891 - DEBUG - tearDown: Completed TearDown
+2018-10-07 23:46:13,121 - DEBUG - setUp: -------Starting test Setup------
+2018-10-07 23:46:30,551 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-07 23:46:30,635 - DEBUG - tearDown: Started TearDown
+2018-10-07 23:46:32,911 - DEBUG - tearDown: Completed TearDown
+2018-10-07 23:46:58,750 - DEBUG - setUp: -------Starting test Setup------
+2018-10-07 23:47:12,456 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-07 23:47:20,858 - DEBUG - tearDown: Started TearDown
+2018-10-07 23:47:23,121 - DEBUG - tearDown: Completed TearDown
+2018-10-07 23:47:31,753 - DEBUG - setUp: -------Starting test Setup------
+2018-10-07 23:47:46,092 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-07 23:47:52,395 - DEBUG - tearDown: Started TearDown
+2018-10-07 23:47:54,641 - DEBUG - tearDown: Completed TearDown
+2018-10-07 23:48:24,487 - DEBUG - setUp: -------Starting test Setup------
+2018-10-07 23:48:46,835 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-07 23:49:46,226 - DEBUG - tearDown: Started TearDown
+2018-10-07 23:49:48,523 - DEBUG - tearDown: Completed TearDown
+2018-10-07 23:55:59,257 - DEBUG - setUp: -------Starting test Setup------
+2018-10-07 23:56:26,384 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-07 23:56:26,411 - DEBUG - tearDown: Started TearDown
+2018-10-07 23:56:28,654 - DEBUG - tearDown: Completed TearDown
+2018-10-07 23:58:12,519 - DEBUG - setUp: -------Starting test Setup------
+2018-10-07 23:58:33,660 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-07 23:58:33,701 - DEBUG - tearDown: Started TearDown
+2018-10-07 23:58:35,941 - DEBUG - tearDown: Completed TearDown
+2018-10-07 23:59:30,823 - DEBUG - setUp: -------Starting test Setup------
+2018-10-07 23:59:47,973 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 00:00:41,369 - DEBUG - tearDown: Started TearDown
+2018-10-08 00:00:43,569 - DEBUG - tearDown: Completed TearDown
+2018-10-08 00:14:22,278 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 00:14:40,190 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 00:15:10,260 - DEBUG - tearDown: Started TearDown
+2018-10-08 00:15:12,526 - DEBUG - tearDown: Completed TearDown
+2018-10-08 00:16:48,040 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 00:17:04,003 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 00:17:38,496 - DEBUG - tearDown: Started TearDown
+2018-10-08 00:17:40,760 - DEBUG - tearDown: Completed TearDown
+2018-10-08 00:18:59,967 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 00:19:18,394 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 00:19:48,535 - DEBUG - tearDown: Started TearDown
+2018-10-08 00:19:50,822 - DEBUG - tearDown: Completed TearDown
+2018-10-08 00:19:58,956 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 00:20:13,252 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 00:20:16,634 - DEBUG - tearDown: Started TearDown
+2018-10-08 00:20:19,000 - DEBUG - tearDown: Completed TearDown
+2018-10-08 00:20:41,174 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 00:20:55,322 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 00:21:25,348 - DEBUG - tearDown: Started TearDown
+2018-10-08 00:21:27,871 - DEBUG - tearDown: Completed TearDown
+2018-10-08 00:21:52,789 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 00:22:09,558 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 00:22:17,305 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 00:22:17,342 - DEBUG - tearDown: Started TearDown
+2018-10-08 00:22:19,622 - DEBUG - tearDown: Completed TearDown
+2018-10-08 00:24:20,953 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 00:24:34,832 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 00:24:40,529 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 00:24:40,561 - DEBUG - tearDown: Started TearDown
+2018-10-08 00:24:43,017 - DEBUG - tearDown: Completed TearDown
+2018-10-08 00:25:51,266 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 00:26:05,875 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 00:26:11,410 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 00:26:11,441 - DEBUG - tearDown: Started TearDown
+2018-10-08 00:26:13,717 - DEBUG - tearDown: Completed TearDown
+2018-10-08 00:33:46,513 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 00:34:01,184 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 00:34:13,960 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 00:35:03,992 - DEBUG - tearDown: Started TearDown
+2018-10-08 00:35:06,266 - DEBUG - tearDown: Completed TearDown
+2018-10-08 00:44:37,990 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 00:45:08,266 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 00:45:19,055 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 00:46:09,792 - DEBUG - tearDown: Started TearDown
+2018-10-08 00:46:12,046 - DEBUG - tearDown: Completed TearDown
+2018-10-08 01:03:32,734 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 01:03:48,927 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 01:04:13,318 - DEBUG - tearDown: Started TearDown
+2018-10-08 01:04:18,801 - DEBUG - tearDown: Completed TearDown
+2018-10-08 01:04:56,753 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 01:05:12,424 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 01:05:22,503 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 01:05:23,328 - DEBUG - tearDown: Started TearDown
+2018-10-08 01:05:25,578 - DEBUG - tearDown: Completed TearDown
+2018-10-08 01:05:56,648 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 01:06:08,453 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 01:06:20,573 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 01:06:21,855 - DEBUG - tearDown: Started TearDown
+2018-10-08 01:06:24,529 - DEBUG - tearDown: Completed TearDown
+2018-10-08 01:06:47,414 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 01:07:01,236 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 01:07:07,744 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 01:07:11,740 - DEBUG - tearDown: Started TearDown
+2018-10-08 01:07:14,022 - DEBUG - tearDown: Completed TearDown
+2018-10-08 01:07:42,861 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 01:07:54,690 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 01:08:01,747 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 01:08:05,204 - DEBUG - tearDown: Started TearDown
+2018-10-08 01:08:07,500 - DEBUG - tearDown: Completed TearDown
+2018-10-08 01:10:59,563 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 01:11:15,496 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 01:11:23,002 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 01:12:19,255 - DEBUG - tearDown: Started TearDown
+2018-10-08 01:12:21,575 - DEBUG - tearDown: Completed TearDown
+2018-10-08 01:13:21,992 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 01:13:34,927 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 01:13:41,898 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 01:14:32,970 - DEBUG - tearDown: Started TearDown
+2018-10-08 01:14:35,233 - DEBUG - tearDown: Completed TearDown
+2018-10-08 01:15:00,331 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 01:15:13,196 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 01:15:19,834 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 01:16:13,700 - DEBUG - tearDown: Started TearDown
+2018-10-08 01:16:15,970 - DEBUG - tearDown: Completed TearDown
+2018-10-08 01:17:10,150 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 01:17:24,773 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 01:17:33,122 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 01:18:48,595 - DEBUG - tearDown: Started TearDown
+2018-10-08 01:18:50,865 - DEBUG - tearDown: Completed TearDown
+2018-10-08 01:23:36,029 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 01:23:50,372 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 01:23:57,164 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 01:24:53,177 - DEBUG - tearDown: Started TearDown
+2018-10-08 01:24:55,638 - DEBUG - tearDown: Completed TearDown
+2018-10-08 01:28:19,065 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 01:28:32,759 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 01:28:45,569 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 01:28:49,121 - DEBUG - tearDown: Started TearDown
+2018-10-08 01:28:51,413 - DEBUG - tearDown: Completed TearDown
+2018-10-08 01:29:04,095 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 01:29:17,421 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 01:29:24,181 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 01:30:21,322 - DEBUG - tearDown: Started TearDown
+2018-10-08 01:30:23,578 - DEBUG - tearDown: Completed TearDown
+2018-10-08 01:32:36,671 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 01:32:48,940 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 01:32:56,630 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 01:33:56,759 - DEBUG - tearDown: Started TearDown
+2018-10-08 01:34:00,130 - DEBUG - tearDown: Completed TearDown
+2018-10-08 01:34:12,651 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 01:34:26,976 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 01:34:35,122 - DEBUG - test_sign_in_functionality_invalid_email_password: Validate all the fields
+2018-10-08 08:29:00,532 - DEBUG - tearDown: Started TearDown
+2018-10-08 08:29:17,917 - DEBUG - tearDown: Completed TearDown
+2018-10-08 09:10:21,842 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 09:10:37,289 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 09:10:47,190 - DEBUG - tearDown: Started TearDown
+2018-10-08 09:10:49,473 - DEBUG - tearDown: Completed TearDown
+2018-10-08 09:11:41,355 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 09:11:53,154 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 09:11:53,157 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:11:53,157 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:11:57,526 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:11:57,526 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:11:57,601 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:11:57,601 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:12:47,782 - DEBUG - tearDown: Started TearDown
+2018-10-08 09:12:50,091 - DEBUG - tearDown: Completed TearDown
+2018-10-08 09:33:49,138 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 09:34:00,134 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 09:34:00,137 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:34:00,137 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:34:03,944 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:34:03,944 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:34:04,003 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:34:04,003 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:34:04,030 - DEBUG - tearDown: Started TearDown
+2018-10-08 09:34:06,313 - DEBUG - tearDown: Completed TearDown
+2018-10-08 09:36:17,457 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 09:36:26,851 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 09:36:26,854 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:36:26,854 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:36:35,842 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:36:35,842 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:36:35,937 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:36:35,937 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:36:35,990 - DEBUG - tearDown: Started TearDown
+2018-10-08 09:36:38,253 - DEBUG - tearDown: Completed TearDown
+2018-10-08 09:37:20,747 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 09:37:30,836 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 09:37:30,839 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:37:30,839 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:37:35,763 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:37:35,763 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:37:35,828 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:37:35,828 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:37:35,869 - DEBUG - tearDown: Started TearDown
+2018-10-08 09:37:38,171 - DEBUG - tearDown: Completed TearDown
+2018-10-08 09:38:45,749 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 09:38:55,433 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 09:38:55,434 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:38:55,434 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:38:59,262 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:38:59,262 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:38:59,326 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:38:59,326 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:38:59,359 - DEBUG - tearDown: Started TearDown
+2018-10-08 09:39:01,618 - DEBUG - tearDown: Completed TearDown
+2018-10-08 09:41:12,687 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 09:41:21,436 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 09:41:21,437 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:41:21,437 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:41:25,190 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:41:25,190 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:41:25,240 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:41:25,240 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:41:25,243 - DEBUG - tearDown: Started TearDown
+2018-10-08 09:41:27,766 - DEBUG - tearDown: Completed TearDown
+2018-10-08 09:43:35,015 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 09:43:49,263 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 09:43:49,265 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:43:49,265 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:43:52,845 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:43:52,845 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:43:52,930 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:43:52,930 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:43:52,936 - DEBUG - tearDown: Started TearDown
+2018-10-08 09:43:56,312 - DEBUG - tearDown: Completed TearDown
+2018-10-08 09:45:08,444 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 09:45:19,855 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 09:45:19,875 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:45:19,875 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:45:22,369 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:45:22,369 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:45:22,437 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:45:22,437 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:45:22,441 - DEBUG - tearDown: Started TearDown
+2018-10-08 09:45:24,720 - DEBUG - tearDown: Completed TearDown
+2018-10-08 09:47:08,681 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 09:47:17,859 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 09:47:17,864 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:47:17,864 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:47:22,911 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:47:22,911 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:47:22,980 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:47:22,980 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:47:22,983 - DEBUG - tearDown: Started TearDown
+2018-10-08 09:47:26,055 - DEBUG - tearDown: Completed TearDown
+2018-10-08 09:49:54,654 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 09:50:04,464 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 09:50:04,469 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:50:04,469 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 09:50:08,223 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:50:08,223 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 09:50:08,305 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:50:08,305 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 09:50:08,309 - DEBUG - tearDown: Started TearDown
+2018-10-08 09:50:10,848 - DEBUG - tearDown: Completed TearDown
+2018-10-08 11:17:07,782 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 11:17:22,322 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 11:17:22,328 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:17:22,328 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:17:26,200 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:17:26,200 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:17:26,382 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:17:26,382 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:17:26,391 - DEBUG - tearDown: Started TearDown
+2018-10-08 11:17:29,081 - DEBUG - tearDown: Completed TearDown
+2018-10-08 11:18:27,388 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 11:18:39,118 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 11:18:39,145 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:18:39,145 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:18:43,678 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:18:43,678 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:18:43,913 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:18:43,913 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:18:43,921 - DEBUG - tearDown: Started TearDown
+2018-10-08 11:18:46,654 - DEBUG - tearDown: Completed TearDown
+2018-10-08 11:20:16,924 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 11:20:28,006 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 11:20:28,013 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:20:28,013 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:20:33,447 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:20:33,447 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:20:33,674 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:20:33,674 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:20:35,168 - DEBUG - tearDown: Started TearDown
+2018-10-08 11:20:37,766 - DEBUG - tearDown: Completed TearDown
+2018-10-08 11:22:16,384 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 11:22:27,388 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 11:22:27,397 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:22:27,397 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:22:31,164 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:22:31,164 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:22:31,328 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:22:31,328 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:23:22,137 - DEBUG - tearDown: Started TearDown
+2018-10-08 11:23:24,749 - DEBUG - tearDown: Completed TearDown
+2018-10-08 11:25:54,463 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 11:26:04,293 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 11:26:04,296 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:26:04,296 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:26:08,061 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:26:08,061 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:26:08,131 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:26:08,131 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:26:08,132 - DEBUG - tearDown: Started TearDown
+2018-10-08 11:26:10,516 - DEBUG - tearDown: Completed TearDown
+2018-10-08 11:27:27,575 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 11:27:35,157 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 11:27:35,158 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:27:35,158 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:27:37,818 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:27:37,818 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:27:37,881 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:27:37,881 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:27:37,884 - DEBUG - tearDown: Started TearDown
+2018-10-08 11:27:40,121 - DEBUG - tearDown: Completed TearDown
+2018-10-08 11:37:46,660 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 11:37:56,471 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 11:37:56,474 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:37:56,474 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:37:59,302 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:37:59,302 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:37:59,368 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:37:59,368 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:38:49,539 - DEBUG - tearDown: Started TearDown
+2018-10-08 11:38:51,803 - DEBUG - tearDown: Completed TearDown
+2018-10-08 11:39:29,806 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 11:39:37,375 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 11:39:37,378 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:39:37,378 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 11:39:40,335 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:39:40,335 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 11:39:40,390 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:39:40,390 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 11:39:40,960 - DEBUG - tearDown: Started TearDown
+2018-10-08 11:39:43,210 - DEBUG - tearDown: Completed TearDown
+2018-10-08 12:02:43,733 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 12:02:56,635 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 12:02:56,638 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:02:56,638 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:03:00,973 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:03:00,973 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:03:01,036 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:03:01,036 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:03:01,622 - DEBUG - tearDown: Started TearDown
+2018-10-08 12:03:04,934 - DEBUG - tearDown: Completed TearDown
+2018-10-08 12:04:39,533 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 12:04:51,625 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 12:04:51,627 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:04:51,627 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:04:54,410 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:04:54,410 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:04:54,786 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:04:54,786 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:04:54,818 - DEBUG - tearDown: Started TearDown
+2018-10-08 12:04:57,085 - DEBUG - tearDown: Completed TearDown
+2018-10-08 12:08:00,457 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 12:08:11,174 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 12:08:11,176 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:08:11,176 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:08:13,470 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:08:13,470 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:08:13,530 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:08:13,530 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:09:04,186 - DEBUG - tearDown: Started TearDown
+2018-10-08 12:09:06,440 - DEBUG - tearDown: Completed TearDown
+2018-10-08 12:35:42,772 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 12:35:52,542 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 12:35:52,546 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:35:52,546 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:35:57,286 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:35:57,286 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:35:57,357 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:35:57,357 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:35:57,427 - DEBUG - tearDown: Started TearDown
+2018-10-08 12:35:59,687 - DEBUG - tearDown: Completed TearDown
+2018-10-08 12:40:56,513 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 12:41:04,992 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 12:41:04,994 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:41:04,994 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:41:08,734 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:41:08,734 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:41:08,792 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:41:08,792 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:41:12,961 - DEBUG - tearDown: Started TearDown
+2018-10-08 12:41:15,204 - DEBUG - tearDown: Completed TearDown
+2018-10-08 12:42:01,344 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 12:42:10,006 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 12:42:10,029 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:42:10,029 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:42:17,729 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:42:17,729 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:42:17,776 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:42:17,776 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:42:19,875 - DEBUG - tearDown: Started TearDown
+2018-10-08 12:42:22,148 - DEBUG - tearDown: Completed TearDown
+2018-10-08 12:43:08,637 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 12:43:17,381 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 12:43:17,382 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:43:17,382 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:43:19,477 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:43:19,477 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:43:19,575 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:43:19,575 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:44:13,996 - DEBUG - tearDown: Started TearDown
+2018-10-08 12:44:16,290 - DEBUG - tearDown: Completed TearDown
+2018-10-08 12:52:12,631 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 12:52:22,023 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 12:52:22,029 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:52:22,029 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:52:25,392 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:52:25,392 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:52:25,457 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:52:25,457 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:52:28,200 - DEBUG - tearDown: Started TearDown
+2018-10-08 12:52:32,187 - DEBUG - tearDown: Completed TearDown
+2018-10-08 12:52:57,520 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 12:53:06,854 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 12:53:06,858 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:53:06,858 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:53:10,443 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:53:10,443 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:53:10,505 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:53:10,505 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:53:13,970 - DEBUG - tearDown: Started TearDown
+2018-10-08 12:53:16,299 - DEBUG - tearDown: Completed TearDown
+2018-10-08 12:54:33,131 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 12:54:42,832 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 12:54:42,835 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:54:42,835 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 12:54:46,631 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:54:46,631 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 12:54:46,687 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:54:46,687 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 12:55:39,503 - DEBUG - tearDown: Started TearDown
+2018-10-08 12:55:41,760 - DEBUG - tearDown: Completed TearDown
+2018-10-08 13:01:35,315 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 13:01:46,450 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 13:01:46,453 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 13:01:46,453 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 13:01:49,529 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 13:01:49,529 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 13:01:49,595 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 13:01:49,595 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 13:02:44,493 - DEBUG - tearDown: Started TearDown
+2018-10-08 13:02:46,766 - DEBUG - tearDown: Completed TearDown
+2018-10-08 14:23:33,512 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 14:23:43,262 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 14:23:43,265 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 14:23:43,265 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 14:23:50,388 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 14:23:50,388 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 14:23:50,438 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 14:23:50,438 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 14:25:35,688 - DEBUG - tearDown: Started TearDown
+2018-10-08 14:25:37,960 - DEBUG - tearDown: Completed TearDown
+2018-10-08 14:34:41,167 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 14:34:51,089 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 14:34:51,092 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 14:34:51,092 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 14:34:53,811 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 14:34:53,811 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 14:34:53,874 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 14:34:53,874 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 14:36:39,398 - DEBUG - tearDown: Started TearDown
+2018-10-08 14:36:41,694 - DEBUG - tearDown: Completed TearDown
+2018-10-08 15:04:42,802 - DEBUG - setUp: -------Starting test Setup------
+2018-10-08 15:04:57,371 - DEBUG - setUp: ------Completed Test setup-------
+2018-10-08 15:04:57,374 - DEBUG - test_4_create_new_sign_up: Click on Sign up link
+2018-10-08 15:04:57,375 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 15:04:57,375 - DEBUG - click_on_sign_up_link: Click on Sign up link
+2018-10-08 15:04:59,694 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 15:04:59,694 - DEBUG - click_on_sign_up_link: Validate Create New Accont text on sign up page
+2018-10-08 15:04:59,793 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 15:04:59,793 - DEBUG - click_on_sign_up_link: Create New Account
+2018-10-08 15:04:59,796 - DEBUG - test_4_create_new_sign_up: Enter value in user name field
+2018-10-08 15:04:59,996 - DEBUG - test_4_create_new_sign_up: Enter value in Email field
+2018-10-08 15:05:00,230 - DEBUG - test_4_create_new_sign_up: Enter value in Password field
+2018-10-08 15:05:00,372 - DEBUG - test_4_create_new_sign_up: Enter value in repeat password field
+2018-10-08 15:05:00,499 - DEBUG - test_4_create_new_sign_up: Click on privacy link and validate privacy page
+2018-10-08 15:05:03,720 - DEBUG - test_4_create_new_sign_up: Select age checkbox
+2018-10-08 15:05:03,852 - DEBUG - test_4_create_new_sign_up: Select agreement checkbox
+2018-10-08 15:05:03,984 - DEBUG - test_4_create_new_sign_up: Select mail system checkbox
+2018-10-08 15:05:04,101 - DEBUG - test_4_create_new_sign_up: Select mail product checkbox
+2018-10-08 15:05:04,216 - DEBUG - test_4_create_new_sign_up: Select mail news checkbox
+2018-10-08 15:05:04,332 - DEBUG - test_4_create_new_sign_up: Click on Submit account button
+2018-10-08 15:05:10,578 - DEBUG - tearDown: Started TearDown
+2018-10-08 15:05:13,456 - DEBUG - tearDown: Completed TearDown

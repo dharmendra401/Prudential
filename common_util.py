@@ -299,8 +299,8 @@ class PageUtil(object):
         :param object:
         :return:
         """
-        sign_in = self.browser.setting.get('Locators', 'sign_in_css')
-        self.browser.find_element_by_css_selector(sign_in).click
+        link = self.browser.find_element_by_partial_link_text("Sign Up")
+        link.click()
         self.log.debug("check email id field is present")
         sign_in_email_field = self.browser.setting.get('Locators', 'sign_in_email_field')
         assert self.is_element_present(By.XPATH, sign_in_email_field)," Email Field is not present"
@@ -358,10 +358,71 @@ class PageUtil(object):
         tab.is_displayed()
         tab.click()
 
+    def click_on_sign_up_link(self):
+        """
+        Workflow method to click on sign_up link
+        :return:
+        """
+        create_new_acc_txt = self.browser.setting.get('Locators', 'create_new_acc_txt')
+        self.log.debug("Click on Sign up link")
+        link  = self.browser.find_element_by_partial_link_text("Sign Up")
+        link.click()
+        self.log.debug("Validate Create New Accont text on sign up page")
+        create_acc = self.browser.find_element_by_css_selector(create_new_acc_txt)
+        create_acc_text = create_acc.text
+        self.log.debug(create_acc_text)
+        assert create_acc_text == "Create New Account" , "It is not a sign up window"
 
+    def enter_value_in_txt_field(self, value, placehoder, locator):
+        """
 
+        :param value:
+        :param kwargs:
+        :return:
+        """
+        field_locator = self.browser.find_element_by_css_selector(locator)
+        self._validate_place_holder_txt_field(placehoder, field_locator)
+        field_locator.send_keys(value)
 
+    def _validate_place_holder_txt_field(self, placehoder_expected, field_locator):
+        placeholder_actual = field_locator.get_attribute("placeholder")
+        assert placeholder_actual == placehoder_expected , "Wrong username placeholder"
 
+    def click_on_link(self, link, landing_page):
+        """
+        Workflow method to click on Link
+        :return:
+        """
+        privacy = self.browser.find_element_by_partial_link_text(link)
+        assert  privacy.is_enabled(), "Privacy is enabled"
+        before = self.browser.window_handles[0]
+        privacy.click()
+        after = self.browser.window_handles[1]
+        self.browser.switch_to_window(after)
+        print self.browser.current_url
+        privacy_new_page_title = self.browser.find_element_by_css_selector(landing_page)
+        assert privacy_new_page_title.text=="Privacy Policy", " title is mismatch"
+        self.browser.close()
+        self.browser.switch_to_window(before)
 
+    def select_checkbox(self, locator):
+        """
+        workflow method to select checkboxes
+        :return:
+        """
+        checkbox = self.browser.find_element_by_css_selector(locator)
+        if not checkbox.is_selected():
+            checkbox.click()
+        else:
+            print " check box is already selected"
 
-
+    def click_create_account_button(self):
+        """
+        Workflow method to create new account
+        :return:
+        """
+        create_account_button = self.browser.setting.get('Locators', 'create_account_button')
+        button = self.browser.find_element_by_css_selector(create_account_button)
+        assert button.is_enabled(), "button is enabled"
+        if button.is_enabled():
+            button.click()
